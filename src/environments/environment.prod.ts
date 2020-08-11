@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiUrl: 'http://desafioonline.webmotors.com.br/api/OnlineChallenge'
 };

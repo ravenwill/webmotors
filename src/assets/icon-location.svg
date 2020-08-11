@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Pin Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,11 C11.449,11 11,10.551 11,10 C11,9.449 11.449,9 12,9 C12.551,9 13,9.449 13,10 C13,10.551 12.551,11 12,11 M12,2.0004 C16.411,2.0004 20,5.5884 20,10.0004 C20,16.4404 12.884,21.5974 12.581,21.8144 C12.407,21.9384 12.204,22.0004 12,22.0004 C11.796,22.0004 11.593,21.9384 11.419,21.8144 C11.116,21.5974 4,16.4404 4,10.0004 C4,5.5884 7.589,2.0004 12,2.0004 Z M12,19.7334 C13.609,18.4224 18,14.4384 18,10.0004 C18,6.6914 15.309,4.0004 12,4.0004 C8.691,4.0004 6,6.6914 6,10.0004 C6,14.4384 10.391,18.4224 12,19.7334 Z M12,7 C13.654,7 15,8.346 15,10 C15,11.654 13.654,13 12,13 C10.346,13 9,11.654 9,10 C9,8.346 10.346,7 12,7 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Pin-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+        <g id="Colors/Grey/Grey-2" mask="url(#mask-2)" fill="#696977">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
